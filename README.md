@@ -67,4 +67,4 @@ All rights reserved. See the copyright notice below.
 
 ## Copyright
 
-Copyright (c) 2026 Basit and Abid. All rights reserved.
+Copyright © 2026 Basit and Abid. All rights reserved.
