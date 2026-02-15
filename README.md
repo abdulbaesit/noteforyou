@@ -39,7 +39,7 @@ The production app is live at the demo link above. The source code is not public
 ### PCs (Mac)
 ![Login page](screens/login-page-mac.PNG)
 ![Signup page](screens/signup-page-mac.PNG)
-![Main page](screens/main-page-mac.JPG)
+<td>![Main page](screens/main-page-mac.JPG) width="360"</td>
 <table>
 	<tr>
 		<td><img src="screens/login-page-mac.PNG" alt="Login page (Mac)"  width="260" /></td>
