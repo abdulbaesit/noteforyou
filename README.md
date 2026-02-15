@@ -42,9 +42,9 @@ The production app is live at the demo link above. The source code is not public
 ![Main page](screens/main-page-mac.JPG)
 <table>
 	<tr>
-		<td><img src="screens/login-page-mac.PNG" alt="Login page (Mac)" /></td>
-		<td><img src="screens/signup-page-mac.PNG" alt="Signup page (Mac)" /></td>
-		<td><img src="screens/main-page-mac.JPG" alt="Main page (Mac)" /></td>
+		<td><img src="screens/login-page-mac.PNG" alt="Login page (Mac)"  width="260" /></td>
+		<td><img src="screens/signup-page-mac.PNG" alt="Signup page (Mac)"  width="360" /></td>
+		<td><img src="screens/main-page-mac.JPG" alt="Main page (Mac)"  width="460" /></td>
 	</tr>
 </table>
 
