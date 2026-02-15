@@ -9,7 +9,7 @@ Anonymous note-sharing for LUMS students. Send notes to coursemates, batchmates,
 **Quick Links**
 
 - Live app: https://noteforyou.up.railway.app
-- Recorded demo of how to use the app: https://youtube.com/watch?v=REPLACE_ME
+- Recorded demo of how to use the app: https://youtu.be/rWeXyqyn5ek
 
 ---
 
