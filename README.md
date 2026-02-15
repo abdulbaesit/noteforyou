@@ -38,24 +38,21 @@ The production app is live at the demo link above. The source code is not public
 
 ### Login
 
-![Login page](screens/login-page.PNG)
+![Login page (Mac)](screens/login-page-mac.PNG)
+![Login page (iPhone)](screens/login-page-iphone.jpg)
 
 ### Signup
 
-![Signup page](screens/signup-page.PNG)
+![Signup page (Mac)](screens/signup-page-mac.PNG)
 
-### Main (Mac)
+### Main
 
-![Main page (Mac)](screens/main-mac-page.JPG)
-
-### Main (iPhone)
-
-![Main page (iPhone)](screens/main-iphone-page.JPG)
+![Main page (Mac)](screens/main-page-mac.JPG)
+![Main page (iPhone)](screens/main-page-iphone.JPG)
 
 ### More Screens
 
-![Sample screen 1](screens/IMG_4692.jpg)
-![Sample screen 2](screens/IMG_4694.jpg)
+![Send note (iPhone)](screens/sendingnote-page-iphone.jpg)
 
 ## Roadmap
 
