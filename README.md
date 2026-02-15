@@ -2,10 +2,16 @@
 
 Anonymous note-sharing for LUMS students. Send notes to coursemates, batchmates, roommates, or anyone at LUMS without revealing who sent them. Replies are planned for a future version.
 
-## Demo
+![Status](https://img.shields.io/badge/status-live-brightgreen)
+![Access](https://img.shields.io/badge/access-LUMS%20only-blue)
+![Platform](https://img.shields.io/badge/platform-web-informational)
 
-- https://noteforyou.up.railway.app
-- Recorded demo of how to use the app (YouTube): https://youtube.com/watch?v=REPLACE_ME
+**Quick Links**
+
+- Live app: https://noteforyou.up.railway.app
+- Recorded demo of how to use the app: https://youtube.com/watch?v=REPLACE_ME
+
+---
 
 ## Features
 
@@ -16,11 +22,13 @@ Anonymous note-sharing for LUMS students. Send notes to coursemates, batchmates,
 
 ## Tech Stack
 
-- Frontend: React, TypeScript, Tailwind CSS
-- Backend: FastAPI, Python, SQLAlchemy
-- Database: PostgreSQL
-- Auth: JWT access/refresh tokens, OTP email verification
-- Hosting: Railway
+| Layer | Tech |
+| --- | --- |
+| Frontend | React, TypeScript, Tailwind CSS |
+| Backend | FastAPI, Python, SQLAlchemy |
+| Database | PostgreSQL |
+| Auth | JWT access/refresh tokens, OTP email verification |
+| Hosting | Railway |
 
 ## Setup and Run (Source Code Private)
 
@@ -28,12 +36,26 @@ The production app is live at the demo link above. The source code is not public
 
 ## Screenshots
 
-- [Login page](login-page.PNG)
-- [Signup page](signup-page.PNG)
-- [Main page (Mac)](main-mac-page.JPG)
-- [Main page (iPhone)](main-iphone-page.JPG)
-- [Sample screen 1](IMG_4692.jpg)
-- [Sample screen 2](IMG_4694.jpg)
+### Login
+
+![Login page](screens/login-page.PNG)
+
+### Signup
+
+![Signup page](screens/signup-page.PNG)
+
+### Main (Mac)
+
+![Main page (Mac)](screens/main-mac-page.JPG)
+
+### Main (iPhone)
+
+![Main page (iPhone)](screens/main-iphone-page.JPG)
+
+### More Screens
+
+![Sample screen 1](screens/IMG_4692.jpg)
+![Sample screen 2](screens/IMG_4694.jpg)
 
 ## Roadmap
 
@@ -47,8 +69,8 @@ This repository is currently documentation-only. If you want to contribute, open
 
 ## License
 
-TBD
+All rights reserved. See the copyright notice below.
 
----
+## Copyright
 
-Brought to you by Basit and Abid.
+Copyright (c) 2026 Basit and Abid. All rights reserved.
