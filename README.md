@@ -39,7 +39,7 @@ The production app is live at the demo link above. The source code is not public
 ### Login
 
 ![Login page (Mac)](screens/login-page-mac.PNG)
-![Login page (iPhone)](screens/login-page-iphone.jpg)
+<img src="screens/login-page-iphone.jpg" alt="Login page (iPhone)" width="280" />
 
 ### Signup
 
@@ -48,11 +48,8 @@ The production app is live at the demo link above. The source code is not public
 ### Main
 
 ![Main page (Mac)](screens/main-page-mac.JPG)
-![Main page (iPhone)](screens/main-page-iphone.JPG)
-
-### More Screens
-
-![Send note (iPhone)](screens/sendingnote-page-iphone.jpg)
+<img src="screens/main-page-iphone.JPG" alt="Main page (iPhone)" width="280" />
+<img src="screens/sendingnote-page-iphone.jpg" alt="Send note (iPhone)" width="280" />
 
 ## Roadmap
 
