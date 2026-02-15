@@ -36,20 +36,25 @@ The production app is live at the demo link above. The source code is not public
 
 ## Screenshots
 
-### Login
+### PCs (Mac)
 
-![Login page (Mac)](screens/login-page-mac.PNG)
-<img src="screens/login-page-iphone.jpg" alt="Login page (iPhone)" width="280" />
+<table>
+	<tr>
+		<td><img src="screens/login-page-mac.PNG" alt="Login page (Mac)" width="420" /></td>
+		<td><img src="screens/signup-page-mac.PNG" alt="Signup page (Mac)" width="420" /></td>
+		<td><img src="screens/main-page-mac.JPG" alt="Main page (Mac)" width="420" /></td>
+	</tr>
+</table>
 
-### Signup
+### Phones (iPhone)
 
-![Signup page (Mac)](screens/signup-page-mac.PNG)
-
-### Main
-
-![Main page (Mac)](screens/main-page-mac.JPG)
-<img src="screens/main-page-iphone.JPG" alt="Main page (iPhone)" width="280" />
-<img src="screens/sendingnote-page-iphone.jpg" alt="Send note (iPhone)" width="280" />
+<table>
+	<tr>
+		<td><img src="screens/login-page-iphone.jpg" alt="Login page (iPhone)" width="260" /></td>
+		<td><img src="screens/main-page-iphone.JPG" alt="Main page (iPhone)" width="260" /></td>
+		<td><img src="screens/sendingnote-page-iphone.jpg" alt="Send note (iPhone)" width="260" /></td>
+	</tr>
+</table>
 
 ## Roadmap
 
